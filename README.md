@@ -3,7 +3,5 @@ Neste meu jogo o objetivo da rede neural é aprender a manter o foguete o maximo
 
 
 
-https://github.com/Brunexgmaer09/Rocket-Lander-Rede-Neural-NEAT/assets/39810796/09229bce-3962-42ef-affa-bfe1fd0f94b6
 
-
-
+https://github.com/Brunexgmaer09/Rocket-Lander-Rede-Neural-NEAT/assets/39810796/e15f4c81-236d-42db-b26d-1a1d968169f3
