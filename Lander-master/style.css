@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #121212; /* Dark background for the whole page */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Arial', sans-serif;
+}
+
+.game-container {
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.8), /* Inner shadow */
+                 0 0 20px rgba(0, 0, 0, 0.6) inset; /* Ambient occlusion effect */
+    border-radius: 10px; /* Rounded corners for the canvas container */
+    overflow: hidden;
+}
+
+canvas {
+    display: block; /* Removes bottom margin/gap */
+    background-color: #000; /* Canvas background */
+    margin: 0 auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); /* Soft shadow for 3D effect */
+}
